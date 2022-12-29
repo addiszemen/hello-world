@@ -1,7 +1,7 @@
 <form>
-  <label for="name">Name:</label><br>
+  <label for="name">Name:</label>
   <input type="text" id="name" name="name"><br>
-  <label for="password">Password:</label><br>
+  <label for="password">Password:</label>
   <input type="password" id="password" name="password"><br><br>
   <input type="radio" id="radio1" name="radio" value="radio1"><br><br>
   
