@@ -4,7 +4,8 @@
   <label for="password">Password:</label><br>
   <input type="password" id="password" name="password"><br><br>
   <input type="radio" id="radio1" name="radio" value="radio1">
-  <label for="radio1">Radio 1</label><br>
+<br>  
+<label for="radio1">Radio 1</label><br>
   <input type="radio" id="radio2" name="radio" value="radio2">
   <label for="radio2">Radio 2</label><br><br>
   <input type="checkbox" id="checkbox" name="checkbox" value="checkbox">
