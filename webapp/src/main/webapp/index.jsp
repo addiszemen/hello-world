@@ -42,7 +42,7 @@
 <body>
 	<div>
 		<form action="register" method="post">
-			<label for="Full name">Name:</label>
+			<label for=" name">Full Name:</label>
 			<input type="text" id="name" name="name" required><br>
 			<label for="email">Email:</label>
 			<input type="email" id="email" name="email" required><br>
