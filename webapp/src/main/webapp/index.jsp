@@ -67,6 +67,7 @@ value="other">Other</option>
 			</select><br>
 			<label for="agreement">I agree to the terms and conditions:</label>
 			<input type="checkbox" id="agreement" name="agreement" required><br><br>
+                        <label for="Click button">Click button to submit:</label><br>
 			<input type="submit" value="Submit">
 		</form> 
 	</div>
